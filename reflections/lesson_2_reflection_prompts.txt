@@ -5,6 +5,8 @@ This adds the git metadata to my folder structure. We need it to help git save o
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+Staging area helps me determine what files I need to have a copy of. It allows me to selectively choose files to version control.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
